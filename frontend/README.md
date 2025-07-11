@@ -37,12 +37,12 @@ This is a **MERN Stack Admin Dashboard** developed as part of a technical intern
 git clone https://github.com/tharu-nisansala/Assignment-Intern-TharushiNisansala.git
 
 2. Start Backend
-cd server
+cd backend
 npm install
 npm start
 
 3. Start Frontend
-cd client
+cd frontend
 npm install
 npm run dev
 
